@@ -1,2 +1,5 @@
 # personal-website
-Find out more about me!
+
+Learing React.js ...
+
+Coming soon!
