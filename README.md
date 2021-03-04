@@ -1,5 +1,5 @@
 # personal-website
 
-Learing React.js ...
+Learning React.js/MATERIAL-UI ...
 
 Coming soon!
